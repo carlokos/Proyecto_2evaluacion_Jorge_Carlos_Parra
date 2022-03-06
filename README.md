@@ -1,29 +1,12 @@
-# Proyecto2Evaluacion_Jorge_Carlos
+--EL JUEGO--
+El juego esta inspirado en el famoso juego de movil "JetPack Joyride" juego que consiste en simplemente correr, volar y esquivar los obstaculos
+y este juego hace lo mismo (pero version cutre hecho por un alumno claro)
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
+aqui tienes que procurar recolectar todas las monedas posibles y esquivar todas las bolas de pinchos posibles manejando lo mejor que puedas 
+un robot capaz de volar
 
-This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+	-El juego inicia en el setReadyScreen que basta con tocar la pantalla para empezar a jugar
 
-## Gradle
+	-Al iniciar a jugar y perder se entrara en el gameoverScreen que, de nuevo, basta con volver a tocar la pantalla para volver a jugar
 
-This project uses [Gradle](http://gradle.org/) to manage dependencies.
-The Gradle wrapper was included, so you can run Gradle tasks using `gradlew.bat` or `./gradlew` commands.
-Useful Gradle tasks and flags:
-
-- `--continue`: when using this flag, errors will not stop the tasks from running.
-- `--daemon`: thanks to this flag, Gradle daemon will be used to run chosen tasks.
-- `--offline`: when using this flag, cached dependency archives will be used.
-- `--refresh-dependencies`: this flag forces validation of all dependencies. Useful for snapshot versions.
-- `android:lint`: performs Android project validation.
-- `build`: builds sources and archives of every project.
-- `cleanEclipse`: removes Eclipse project data.
-- `cleanIdea`: removes IntelliJ project data.
-- `clean`: removes `build` folders, which store compiled classes and built archives.
-- `eclipse`: generates Eclipse project data.
-- `idea`: generates IntelliJ project data.
-- `lwjgl3:jar`: builds application's runnable jar, which can be found at `lwjgl3/build/libs`.
-- `lwjgl3:run`: starts the application.
-- `test`: runs unit tests (if any).
-
-Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
-For example, `core:clean` removes `build` folder only from the `core` project.
+-- HECHO POR JORGE CARLOS PARRA 2DAM
