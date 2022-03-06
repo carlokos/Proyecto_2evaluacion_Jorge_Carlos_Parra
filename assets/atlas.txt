@@ -1,0 +1,167 @@
+
+atlas.png
+size: 1931, 1315
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 233
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+moneda2
+  rotate: false
+  xy: 1725, 50
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+moneda3
+  rotate: false
+  xy: 1567, 6
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: -1
+moneda4
+  rotate: false
+  xy: 1914, 52
+  size: 15, 79
+  orig: 15, 79
+  offset: 0, 0
+  index: -1
+moneda5
+  rotate: false
+  xy: 1858, 52
+  size: 54, 79
+  orig: 54, 79
+  offset: 0, 0
+  index: -1
+moneda6
+  rotate: false
+  xy: 1792, 52
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: -1
+moneda7
+  rotate: false
+  xy: 1483, 5
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+moneda1
+  rotate: false
+  xy: 1483, 5
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+muerte_robot1
+  rotate: false
+  xy: 1629, 131
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+muerte_robot2
+  rotate: false
+  xy: 1732, 133
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+muerte_robot3
+  rotate: false
+  xy: 1831, 133
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+muerte_robot4
+  rotate: false
+  xy: 1629, 32
+  size: 94, 97
+  orig: 94, 97
+  offset: 0, 0
+  index: -1
+robot1
+  rotate: false
+  xy: 1202, 61
+  size: 139, 170
+  orig: 139, 170
+  offset: 0, 0
+  index: -1
+robot2
+  rotate: false
+  xy: 747, 63
+  size: 156, 168
+  orig: 156, 168
+  offset: 0, 0
+  index: -1
+robot3
+  rotate: false
+  xy: 1054, 66
+  size: 146, 165
+  orig: 146, 165
+  offset: 0, 0
+  index: -1
+robot4
+  rotate: false
+  xy: 1343, 63
+  size: 138, 168
+  orig: 138, 168
+  offset: 0, 0
+  index: -1
+robot5
+  rotate: false
+  xy: 580, 69
+  size: 165, 162
+  orig: 165, 162
+  offset: 0, 0
+  index: -1
+robot6
+  rotate: false
+  xy: 905, 64
+  size: 147, 167
+  orig: 147, 167
+  offset: 0, 0
+  index: -1
+robot_volando1
+  rotate: false
+  xy: 2, 2
+  size: 144, 229
+  orig: 144, 229
+  offset: 0, 0
+  index: -1
+robot_volando2
+  rotate: false
+  xy: 148, 2
+  size: 141, 229
+  orig: 141, 229
+  offset: 0, 0
+  index: -1
+robot_volando3
+  rotate: false
+  xy: 434, 14
+  size: 144, 217
+  orig: 144, 217
+  offset: 0, 0
+  index: -1
+robot_volando4
+  rotate: false
+  xy: 291, 5
+  size: 141, 226
+  orig: 141, 226
+  offset: 0, 0
+  index: -1
+spiked_ball
+  rotate: false
+  xy: 1483, 87
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
