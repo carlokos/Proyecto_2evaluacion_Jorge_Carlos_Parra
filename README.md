@@ -9,4 +9,6 @@ un robot capaz de volar
 
 -Al iniciar a jugar y perder se entrara en el gameoverScreen que, de nuevo, basta con volver a tocar la pantalla para volver a jugar
 
+-Se ha comentado la parte del codigo explicando los pasos
+
 -- HECHO POR JORGE CARLOS PARRA 2DAM
