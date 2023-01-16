@@ -38,7 +38,7 @@ public class Coin extends Actor {
         createBody();
         createFixture();
     }
-
+    // Función crear cuerpo
     private void createBody(){
         BodyDef bodyDef = new BodyDef();
 
@@ -55,7 +55,7 @@ public class Coin extends Actor {
         //Metodo que se encargar de indicar los objetos fuera de pantalla
         return this.body.getPosition().x <= -2f;
     }
-
+    // Función parar
     public void stop(){
         this.body.setLinearVelocity(0,0);
     }
