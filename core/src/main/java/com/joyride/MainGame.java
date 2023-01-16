@@ -19,6 +19,7 @@ public class MainGame extends Game {
 	public void create(){
 		this.assetManager = new AssetMan();
 
+		//Esto instancia la pantalla de juego
 		this.gameScreen = new GameScreen(this);
 		this.getReadyScreen = new getReadyScreen(this);
 		this.gameOverScreen = new GameOverScreen(this);
