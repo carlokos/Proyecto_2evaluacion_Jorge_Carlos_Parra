@@ -15,6 +15,8 @@ public class MainGame extends Game {
 
 	public AssetMan assetManager;
 
+
+	//Este metodo crea los assets para que funcione la aplicacion
 	@Override
 	public void create(){
 		this.assetManager = new AssetMan();
