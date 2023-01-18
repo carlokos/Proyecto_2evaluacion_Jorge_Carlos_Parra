@@ -60,6 +60,7 @@ public class Coin extends Actor {
         this.body.setLinearVelocity(0,0);
     }
 
+    // Función para crear Fixture
     private void createFixture(){
         CircleShape circle = new CircleShape();
         circle.setRadius(0.1f);
